@@ -5,3 +5,6 @@ O Bootstrap é uma estrutura de front-end que ajuda a criar sites responsivos pa
 Com o Bootstrap, você pode criar páginas da Web complexas do HTML padrão e personalizá-las de acordo com suas necessidades. O Bootstrap também vem com vários plugins jQuery que podem fornecer funcionalidades adicionais, como carrosséis, botões, dicas de ferramentas e muito mais.
 
 Por último, mas não menos importante, oferece muitos atalhos para a criação de páginas da Web que economizam tempo e energia. Tudo o que você precisa é de um conhecimento básico de HTML e CSS para criar responsivos, móveis primeiro e compatíveis com todos os navegadores modernos.
+
+
+![Captura de tela em 2020-04-25 14-00-41](https://user-images.githubusercontent.com/27355729/80287098-7d953600-86fd-11ea-926f-d1ceca17f96a.png)
