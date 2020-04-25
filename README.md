@@ -1,4 +1,4 @@
-# bootstrap 2020
+# Bootstrap 2020
 
 O Bootstrap é uma estrutura de front-end que ajuda a criar sites responsivos para dispositivos móveis com mais rapidez e facilidade. Desenvolvido pela primeira vez pelo Twitter, o Bootstrap agora é usado para tudo, desde o desenvolvimento de aplicativos da web até temas do WordPress. Também é totalmente gratuito, versátil e intuitivo.
 
